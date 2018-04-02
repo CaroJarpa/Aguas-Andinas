@@ -145,4 +145,4 @@ El sketch principal fue pensado de la siguiente manera, lo que tuvo modificacion
 
 El prototipo final de la experiencia de usuarios para la pagina de aguas andinas se puede encontrar en la siguiente pagina
 
-https://www.figma.com/file/CTvtVBC3zNopkV9V0Rq8uBYo/Pagina-Aguas-Andinas
+https://www.figma.com/proto/CTvtVBC3zNopkV9V0Rq8uBYo/Pagina-Aguas-Andinas?scaling=contain&node-id=1%3A4
